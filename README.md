@@ -26,7 +26,7 @@ The purpose of this project will be to analyze California wildfire data to learn
 
 ## Phase 1: Exploratory Data Analysis
 - [Code](phase-1/Phase_1_Code.ipynb)
-- [Report]
+- [Report](phase-1/Phase_1_Report.ipynb)
 - [Images](phase-1/images/)
 
 ## Phase 2: Classification
