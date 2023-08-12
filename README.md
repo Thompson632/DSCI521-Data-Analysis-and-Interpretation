@@ -1,34 +1,30 @@
 # DSCI521 Data Analysis and Interpretation
 
-# Pre-Requisites
-In order to install the packages required, you will first need to complete the following pre-requisites if not done:
-- Install Python 3.9 or greater for you OS (ex. Windows, MacOS, Linux). The version of python can be done with the following command:
-```bash
-python --version
-```
-- Install Pip 22.1 or greater for you OS (ex. Windows, MacOS, Linux) The version of python can be done with the following command:
-```bash
-pip --version
-```
+The purpose of this repository is to hold the assignment and project deliverables for DSCI521 Data Analysis and Interpretation at Drexel University for the Summer 2023 Quarter.
 
-## Python Libraries
-Next step is to install the libraries that are used by running the following:
-```bash
-pip install -r requirements.txt
-```
+## Assignment 1
+- [Module-A](assignments/a1/module-A/A1-module-A.ipynb)
+- [Module-B](assignments/a1/module-B/A1-module-B.ipynb)
+- [Module-C](assignments/a1/module-C/A1-module-C.ipynb)
 
-# California Wildfires Data Set
-[California Fire Incidents](data/California_Fire_Incidents.csv)
+## Assignment 2
+- [Module-A](assignments/a2/module-A/A2-module-A.ipynb)
+- [Module-B](assignments/a2/module-B/A2-module-B.ipynb)
+- [Module-C](assignments/a2/module-C/A2-module-C.ipynb)
+- [Module-D](assignments/a2/module-D/A2-module-D.ipynb)
 
-# Project
-The purpose of this project will be to analyze California wildfire data to learn about the frequency, duration, and amount of damage that a fire can cause to structures and human life. Wildfires in California have been on the rise, especially in recent years, and have caused destruction and devestation in its wake. Analyzing this wildfire data will can give us an insight into potential patterns that may exist and prepetuate in the future.
+## Assignment 3
+- [Module-A]()
+- [Module-B]()
 
-Our goal is to perform exploratory data analysis and eventually determine the best machine learning model that will enable us to accurately determine if a fire incident is major or not. 
-
-## Phase 1: Exploratory Data Analysis
-- [Code](phase-1/Phase_1_Code.ipynb)
-- [Report](phase-1/Phase_1_Report.ipynb)
-- [Images](phase-1/images/)
+## Project
+- [Dataset](project/data/California_Fire_Incidents.csv)
+- [Phase-1 Code](project/phase-1/Phase_1_Code.ipynb)
+- [Phase-1 Report](project/phase-1/Phase_1_Report.ipynb)
+- [Phase-1 Images](project/phase-1/images/)
+- [Phase-2 Code]()
+- [Phase-2 Report]()
+- [Phase-2 Images]()
 
 # Authors
 - [Austin Eversole](ae588@drexel.edu)
