@@ -1,6 +1,6 @@
 # DSCI521 Data Analysis and Interpretation
 
-The purpose of this repository is to hold the assignment and project deliverables for DSCI521 Data Analysis and Interpretation at Drexel University for the Summer 2023 Quarter.
+The purpose of this repository is to hold the assignment and project deliverables for DSCI521 Data Analysis and Interpretation at Drexel University for the Summer 2022-2023 Quarter.
 
 ## Assignment 1
 - [Module-A](assignments/a1/module-A/A1-module-A.ipynb)
