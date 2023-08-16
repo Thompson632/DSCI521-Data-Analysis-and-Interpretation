@@ -14,8 +14,8 @@ The purpose of this repository is to hold the assignment and project deliverable
 - [Module-D](assignments/a2/module-D/A2-module-D.ipynb)
 
 ## Assignment 3
-- [Module-A]()
-- [Module-B]()
+- [Module-A](assignments/a3/module-A/A3-module-A.ipynb)
+- [Module-B](assignments/a3/module-B/A3-module-B.ipynb)
 
 ## Project
 - [Dataset](project/data/California_Fire_Incidents.csv)
