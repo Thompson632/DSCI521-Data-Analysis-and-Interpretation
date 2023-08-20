@@ -19,12 +19,11 @@ The purpose of this repository is to hold the assignment and project deliverable
 
 ## Project
 - [Dataset](project/data/California_Fire_Incidents.csv)
+- [Images](project/images/)
 - [Phase-1 Code](project/phase-1/Phase_1_Code.ipynb)
 - [Phase-1 Report](project/phase-1/Phase_1_Report.ipynb)
-- [Phase-1 Images](project/phase-1/images/)
 - [Phase-2 Code](project/phase-2/Phase_2_Code.ipynb)
-- [Phase-2 Report]()
-- [Phase-2 Images](project/phase-2/images/)
+- [Phase-2 Report](project/phase-2/Final_Report.ipynb)
 
 # Authors
 - [Austin Eversole](ae588@drexel.edu)
