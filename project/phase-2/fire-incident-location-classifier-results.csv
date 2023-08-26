@@ -1,7 +1,0 @@
-model,data,accuracy,recall,precision,f1-score
-Logistic Regression,Train,0.38,0.32,0.56,0.3
-Logistic Regression,Test,0.39,0.32,0.56,0.3
-Decision Tree,Train,0.98,0.98,0.99,0.98
-Decision Tree,Test,0.95,0.98,0.99,0.98
-Random Forest,Train,0.98,0.98,0.99,0.98
-Random Forest,Test,0.99,0.98,0.99,0.98

@@ -1,0 +1,7 @@
+model,target,accuracy,recall,precision,f1-score
+Logistic Regression,Not a Major Incident (0),0.83,1.0,0.81,0.89
+Logistic Regression,Major Incident (1),0.83,0.38,0.99,0.55
+Decision Tree,Not a Major Incident (0),0.93,1.0,0.91,0.95
+Decision Tree,Major Incident (1),0.93,0.75,0.99,0.85
+Random Forest,Not a Major Incident (0),0.93,0.99,0.92,0.95
+Random Forest,Major Incident (1),0.93,0.78,0.95,0.86
